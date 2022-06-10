@@ -1,0 +1,82 @@
+/*
+Salmão (purple/purple-text) #d76869
+#e39696
+Azul escuro (pink) #141b33
+Azul de fundo (pink.lighten-5) #383c54
+#a5545b
+#782020
+*/
+
+body{
+    background-color: #383c54;
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+}
+
+main {
+    flex: 1 0 auto;
+}
+
+
+.brand-logo{
+    margin-left: 10px;
+    height: 63px;
+    width: 168px;
+}
+
+
+#nav-mobile{
+    margin-right: 10px;
+    padding-bottom: 20px;
+}
+
+#searchbar{
+    margin-right: 250px;
+}
+
+#container01{
+    margin-top: 50px;
+}
+
+.card-panel{
+    margin-top: 40px;
+    border-radius: 8px;
+}
+
+.footer{
+    position: fixed;
+}
+
+.linha1{
+    margin-bottom: 40px;
+    margin-left:382px;
+}
+
+.btn{
+    margin-top: 25px;
+}
+
+center{
+    margin-bottom: 25px;
+}
+
+.logopanel{
+    border-radius: 10px;
+}
+
+.btn-flat{
+    border-radius: 4px;
+}
+
+.card{
+    border-radius: 10px;
+}
+
+.texto{
+    text-align: justify;
+}
+
+.botao{
+    margin-bottom: 50px;
+}
